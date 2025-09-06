@@ -9,7 +9,7 @@ Augmented-DIC-Weak-Boundary-ImageMask-Dataset.zip</a>.
 which was derived by us using <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Offline-Augmentation-Tool">
 ImageMask-Dataset-Offline-Augmentation-Tool</a> 
 from 120 
-DIC (Differential Interference Contrast) Weak Boundary tif image files and corresponding label files in  
+DIC (Differential Interference Contrast) Weak Boundary tif image files and corresponding label files in
 Training-labeled dataset in <a href="https://zenodo.org/records/10719375">NeurIPS 2022 CellSegmentation</a>.
 <br>
  On detail of DIC, please refer to <a href="https://www.olympus-lifescience.com/ja/microscope-resource/primer/techniques/dic/dicintro/">
